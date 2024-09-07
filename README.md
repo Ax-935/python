@@ -1,3 +1,7 @@
-A python learning documentation in my words.
-My source is @KaisenAmin on github and https://www.youtube.com/@Kaisen947 on YouTube 
-Thank you dear Amin <3
+A python learning documentation {and project} in my words. <br>
+The source : <br>
+YT : https://www.youtube.com/@Kaisen947  <br>
+His github : [@KaisenAmin](https://github.com/KaisenAmin) <br><br>
+
+
+Thank you dear Amin ❤️
